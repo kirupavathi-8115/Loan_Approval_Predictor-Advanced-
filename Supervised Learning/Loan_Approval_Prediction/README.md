@@ -103,7 +103,7 @@ train_supervised.py
 → Builds, trains, evaluates, and saves the ML model.
 
 loan_model.pkl
-→ Saved trained Logistic Regression model.
+→ Saved trained Logistic Regression model
 
 preprocessor.pkl
 → Saved StandardScaler used during preprocessing.
