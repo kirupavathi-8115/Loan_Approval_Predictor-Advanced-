@@ -1,0 +1,14 @@
+{
+    "0": {
+        "name": "High-Value Loyalist",
+        "description": "Spends heavily and buys frequently."
+    },
+    "1": {
+        "name": "New / Occasional",
+        "description": "Average spend and infrequent purchases."
+    },
+    "2": {
+        "name": "At-Risk / Dormant",
+        "description": "Hasn't purchased recently and rarely buys."
+    }
+}
